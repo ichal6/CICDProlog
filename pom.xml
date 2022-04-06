@@ -12,6 +12,7 @@
 	<artifactId>CI-CD-prolog</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>CI-CD-prolog</name>
+	<packaging>jar</packaging>
 	<description>CI-CD-prolog</description>
 	<properties>
 		<java.version>11</java.version>
