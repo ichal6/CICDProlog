@@ -4,6 +4,8 @@ warm-up for CI-CD test with Heroku and Spring Boot.
 Online website (available 6 april 2022):
 https://ci-cd-prolog.herokuapp.com/
 
+**Update for pipeline test!**
+
 ## Base on: 
 * page: 
 https://www.nearsure.com/blog/automatic-deployment-to-heroku-ci-cd-spring-boot-maven-github-actions 
